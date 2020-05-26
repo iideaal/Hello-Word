@@ -1,2 +1,3 @@
 # Hello-Word
-My first project
+My first Responsitory
+This is a test.
